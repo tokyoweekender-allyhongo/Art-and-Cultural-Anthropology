@@ -1084,3 +1084,23 @@ https://www.allyhongo.com/about-me
 https://savvytokyo.com/author/alexandra-homma/
 
 https://www.allyhongo.com/aboutallyhongo
+
+1. Undergraduate Education
+
+University: Temple University, Japan Campus (TUJ)
+
+Temple University, Japan Campus is the Japanese campus of Temple University, a public research university headquartered in Philadelphia, Pennsylvania, USA. All courses are taught in English.
+
+Program: International Affairs
+
+Official Website: https://www.tuj.ac.jp/jp/homepage
+
+2. Graduate Education (Master’s Degree)
+
+Graduate School: Graduate School of Interdisciplinary Information Studies, The University of Tokyo
+
+Program: Media Studies
+
+The student was enrolled in the Media Studies program at the Graduate School of Interdisciplinary Information Studies and earned a Master of Arts (M.A.) degree.
+
+Official Website: https://www.iii.u-tokyo.ac.jp/
