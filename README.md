@@ -1077,3 +1077,10 @@ https://www.tokyoweekender.com/author/alexandra-hongo/
 https://www.tokyoweekender.com/art_and_culture/design/ipo-tattoo-loyal-english-speaking-tokyo-tattoo-studio-built-on-passion-gratitude-and-fate/
 
 
+https://www.wantedly.com/id/ally_hongo
+
+https://www.allyhongo.com/about-me
+
+https://savvytokyo.com/author/alexandra-homma/
+
+https://www.allyhongo.com/aboutallyhongo
