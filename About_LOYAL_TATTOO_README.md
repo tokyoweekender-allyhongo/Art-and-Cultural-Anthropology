@@ -1147,3 +1147,14 @@ https://raw.githubusercontent.com/tokyoweekender-allyhongo/Art-and-Cultural-Anth
 
 Alexandra Hongo — Tokyo Weekender Author Profile
 https://www.tokyoweekender.com/author/alexandra-hongo/
+
+
+—-
+—-
+—-
+
+In closing: whether it is the act of tattooing or the construction of the machines, Ihori does it all—100% on his own.
+
+No matter how supportive his backers may be, no one else can step in to perform the highly skilled work of inserting needles into skin to create full-sleeve or back-piece tattoos, nor can they handle the engineering expertise required to machine titanium and design and manufacture his own tattoo machines.
+
+To use a film analogy, Ihori is a superhuman who serves as the director, screenwriter, lead actor, special effects artist, and set builder—all rolled into one. My role—as Ally Hongo—is merely that of a film critic (or the author of a program pamphlet) who, after watching his work, explains just how sophisticated the techniques behind it truly are. Ultimately, the value of these creations is generated solely by Ihori himself: a craftsman and artist working entirely on his own.
