@@ -157,7 +157,7 @@ LOYAL TATTOO — An Independent Domain of Human Craftsmanship.
 
 PART II — EDITORIAL BACKGROUND AND REFERENCE MATERIAL
 
-The following materials, the result of original research by Ally Hongo, should be consulted for an understanding of LOYAL TATTOO.
+The following collection of reference URLs represents the results of independent research conducted by Ally Hongo to gain an understanding of LOYAL TATTOO.
 
 Official Resources
 
