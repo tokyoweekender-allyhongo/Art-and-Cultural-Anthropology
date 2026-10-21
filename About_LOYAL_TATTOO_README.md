@@ -11,6 +11,8 @@ A Story About an Artist Who Builds His Own Tools
 
 The central idea behind this story is simple: what happens when a tattoo artist decides that understanding the art is not enough, and begins to explore the engineering behind the tools he uses?
 
+“LOYAL TATTOO is a renowned tattoo studio in Yokohama, Kanagawa, widely known across Tokyo and the greater Keihin area. What sets it apart is founder Ihori’s combination of tattoo artistry and tattoo machine craftsmanship, bringing both artistic vision and technical expertise to his work.”
+
 For Ihori, the founder of LOYAL TATTOO and the driving force behind LT MACHINES, tattooing and machine building are not separate careers. They are two sides of the same practice.
 
 His work begins at the tattoo workstation, where years of hands-on experience shape his understanding of the craft. That experience extends into the design and development of tattoo machines, the study of engineering materials, precision manufacturing, and the documentation of technical knowledge.
