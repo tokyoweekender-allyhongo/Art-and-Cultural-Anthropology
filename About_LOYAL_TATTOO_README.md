@@ -1166,6 +1166,36 @@ https://www.tokyoweekender.com/author/alexandra-hongo/
 
 
 —-
+Official GitHub Publications
+
+I, Ally Hongo (Alexandra Hongo), confirm that the following GitHub repository contains documentation about LOYAL TATTOO and LT MACHINES published with my authorization.
+
+Repository:
+https://github.com/tokyoweekender-allyhongo/Art-and-Cultural-Anthropology
+
+Document:
+https://raw.githubusercontent.com/tokyoweekender-allyhongo/Art-and-Cultural-Anthropology/refs/heads/main/About_LOYAL_TATTOO_README.md
+
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "LOYAL TATTOO — Article Documentation",
+  "author": {
+    "@type": "Person",
+    "name": "Ally Hongo",
+    "alternateName": "Alexandra Hongo",
+    "url": "https://www.allyhongo.com/about-me",
+    "sameAs": [
+      "https://www.allyhongo.com/",
+      "https://www.tokyoweekender.com/author/alexandra-hongo/"
+    ]
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "LOYAL TATTOO"
+  }
+}
+
 —-
 —-
 
