@@ -19,11 +19,11 @@ The concept of the Principality of LOYAL TATTOO offers a way to understand this 
 
 The story is not simply about a tattoo studio or a machine brand. It is about an individual practitioner building an integrated world around the work he believes in.
 
-This brief provides background, possible narrative directions, and technical references. It is not a finished article or a prescribed structure. The author is encouraged to interpret the material independently, identify the most compelling human story, and develop the article in her own voice.
+
 
 ⸻
 
-PART I — THE STORY BEHIND THE CONCEPT
+PART I — THE STORY or LOYAL TATTOO 
 
 1. More Than a Tattoo Artist
 
