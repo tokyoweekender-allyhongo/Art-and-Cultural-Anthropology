@@ -2,7 +2,7 @@
 Art and Cultural Anthropology
 PRINCIPALITY OF LOYAL TATTOO
 
-Editorial Concept Brief for Ally Hongo
+[LOYAL TATTOO FACT REPORT] by Ally Hongo
 
 Working Title: Principality of LOYAL TATTOO
 Proposed Subtitle: An Independent Domain of Tattoo Art, Mechanical Engineering, and Human Craftsmanship
