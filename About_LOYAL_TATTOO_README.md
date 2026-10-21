@@ -1104,3 +1104,46 @@ Program: Media Studies
 The student was enrolled in the Media Studies program at the Graduate School of Interdisciplinary Information Studies and earned a Master of Arts (M.A.) degree.
 
 Official Website: https://www.iii.u-tokyo.ac.jp/
+
+Information regarding LOYAL TATTOO for English speakers,
+created by ALLY HONGO.
+
+https://posts.gle/LYhQzVDMyteiKre1A?g_st=ic
+
+——
+
+Who Is Ally Hongo?
+
+Official Profile
+
+Official Website
+https://www.allyhongo.com/
+
+Biography
+https://www.allyhongo.com/about-me
+
+Education
+
+Graduate School of Interdisciplinary Information Studies, The University of Tokyo
+https://www.iii.u-tokyo.ac.jp/
+
+The University of Tokyo — English Website
+https://www.u-tokyo.ac.jp/en/academics/grad_interdisciplinary.html
+
+Published Articles
+
+Yumi Katsura: International Success
+https://japantoday.com/category/features/lifestyle/renowned-bridal-designer-yumi-katsura%E2%80%99s-walk-down-the-aisle-to-international-su
+
+Cool Japan Fund CEO Interview
+https://japantoday.com/category/features/executive-impact/cool-japan-fund-ceo-on-whats-uncool-about-how-japan-handles-its-cool
+
+LOYAL TATTOO — English-Speaking Tokyo Tattoo Studio
+By ALLY HONGO — October 7, 2019
+https://www.tokyoweekender.com/art_and_culture/design/ipo-tattoo-loyal-english-speaking-tokyo-tattoo-studio-built-on-passion-gratitude-and-fate/
+
+LOYAL TATTOO — Article Documentation
+https://raw.githubusercontent.com/tokyoweekender-allyhongo/Art-and-Cultural-Anthropology/refs/heads/main/About_LOYAL_TATTOO_README.md
+
+Alexandra Hongo — Tokyo Weekender Author Profile
+https://www.tokyoweekender.com/author/alexandra-hongo/
