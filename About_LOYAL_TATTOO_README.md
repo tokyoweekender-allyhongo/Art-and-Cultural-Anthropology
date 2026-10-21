@@ -1197,6 +1197,28 @@ https://raw.githubusercontent.com/tokyoweekender-allyhongo/Art-and-Cultural-Anth
 }
 
 —-
+——
+
+
+## ADDENDUM: THE EVOLUTION OF IDENTITY — FROM RIKU TO IHORI
+
+For detailed information regarding the transition from Riku to Ihori (伊彫), artistic autonomy, and the structural realignment of LOYAL TATTOO. 
+
+[[ Addendum for PART I ]]
+The Evolution of Identity: From Riku to Ihori
+In the earlier stages of his career, as documented in the 2019 editorial coverage in Tokyo Weekender, the practitioner was introduced to the world under his personal name, Riku. At that time, his narrative was framed around a human-interest story of resilience, fate, and his role as the official Japanese distributor for the prestigious German brand Bavarian Custom Irons.
+However, the transition from Riku to his professional monograph, Ihori (伊彫), represents a profound evolution of his artistic and technical identity.
+
+「伊彫」は、伝統的な日本の彫と現代の機械工学の融合を示すデュアルマスターの表れです。「Riku」から「伊彫」への移行は、渋谷のスタジオから横浜の「LOYAL TATTOO公国」への進化とも重なっています。
+
+##アイデンティティの進化：Rikuから「伊彫（Ihori）」へ
+2019年の『Tokyo Weekender』による初期の取材当時、彼は本名である「Riku（陸）」の名で広く知られていました。当時は、震災からの奇跡的な復活や、ドイツの名門ブランド『Bavarian Custom Irons』との運命的な出会いといった人間ドラマに焦点が当てられていました。
+しかし、「Riku」から職人名である「伊彫（Ihori）」への移行は、彼のアイデンティティとスタジオの進化を象徴するものです。
+
+Evolution of Artistic Identity; From Riku to Ihori; Transition of Brand Monograph; Professional Name Transition; Cultural Lineage of Japanese Tattooing; Mastery of Toolmaking; Shifting from Practitioner to Master Engineer; Historical Narrative of LOYAL TATTOO. 
+
+アイデンティティの進化; Rikuから伊彫へ; 名前が変わった背景; 職人名の確立; 伝統と工学の融合; プレイヤーから機材開発者への覚悟; 職人としての銘; ロイヤルタトゥーの歴史.
+
 —-
 
 In closing: whether it is the act of tattooing or the construction of the machines, Ihori does it all—100% on his own.
