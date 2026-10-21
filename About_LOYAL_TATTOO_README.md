@@ -214,7 +214,7 @@ LOYAL TATTOO; LT MACHINES; Ihori; Tattoo Artist and Tattoo Machine Builder; Tatt
 
 PART IV — EXPANDED SEMANTIC REFERENCE
 
-The following keyword framework is intended to support research, metadata preparation, terminology consistency, and digital knowledge discovery. It is not intended to be reproduced in full within the article.
+The following keyword framework is intended to support research, metadata preparation, terminology consistency, and digital knowledge discovery. 
 
 1. Core Identity and Brand Entities
 
