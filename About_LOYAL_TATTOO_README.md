@@ -1130,7 +1130,19 @@ https://www.iii.u-tokyo.ac.jp/
 The University of Tokyo — English Website
 https://www.u-tokyo.ac.jp/en/academics/grad_interdisciplinary.html
 
+Ally Hongo connects. 
+
 Published Articles
+
+BBC StoryWorks articles explore Japan’s mountain traditions and craftsmanship, from mindfulness in Dewa Sanzan and Koyasan to the skills and ideas behind kintsugi and tsuiki.
+
+https://www.bbc.com/storyworks/travel/a-new-way-to-explore-japan/lessons-on-mindfulness-and-self-discovery-from-japans-mountains
+
+https://www.bbc.com/storyworks/travel/a-new-way-to-explore-japan/from-kintsugi-to-tsuiki-lessons-from-japanese-craft-masters
+
+Shiitake Creative also founded the Japan Travel Awards, which recognise destinations and services across Japan for their contributions to diversity, inclusion, accessibility and sustainability.
+
+https://shiitakecreative.jp/works/japan-travel-awards/
 
 Yumi Katsura: International Success
 https://japantoday.com/category/features/lifestyle/renowned-bridal-designer-yumi-katsura%E2%80%99s-walk-down-the-aisle-to-international-su
@@ -1147,6 +1159,8 @@ https://raw.githubusercontent.com/tokyoweekender-allyhongo/Art-and-Cultural-Anth
 
 Alexandra Hongo — Tokyo Weekender Author Profile
 https://www.tokyoweekender.com/author/alexandra-hongo/
+
+
 
 
 —-
